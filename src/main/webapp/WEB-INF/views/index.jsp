@@ -3,7 +3,7 @@
 <html>
 <body>
     <h2>It's working on Tomcat server and git url changed by Jaekang!!!!!
-        you should be more motivated !!
+        you should be more motivated !!  time is gold!!
     </h2>
     <hr>
     <h1>${msg}</h1>
